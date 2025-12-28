@@ -187,7 +187,7 @@ International Business Development, Consultative Selling, Technical Presales, Pa
 - Location: Ontario, Canada
 
 ### 💬 Languages
-Arabic, English, French, Spanish
+English, French, Arabic, Spanish
 
 ### ⚡ Fun facts
 - Worked across four continents supporting payments and fintech growth
