@@ -2,7 +2,7 @@
 **Technology Presales | Payments & Technology Product | P.Eng. | Smith MBA**
 
 ### 👋 About me
-Hello! My name is Tachfin El Kendoussi. I am a global solutions sales executive who works at the intersection of sales and technology translating complex requirements into scalable, revenue-driving solutions. I am  interested in fintech, AI/LLMs for workflow automation, solution engineering sales , and AI-enabled fintech services.
+Hello! My name is Tachfin El Kendoussi. I am a global solutions sales executive who works at the intersection of sales and technology, translating complex requirements into scalable, revenue-driving solutions. I am  interested in fintech, AI/LLMs for workflow automation, solution engineering sales, and AI-enabled fintech services.
 
 ### 🔭 I’m currently working on
 - **[LoanOrigination.ca](https://loanorigination.ca)** — Loan origination solution to digitize lending operations for Canadian credit unions and community development lenders (Capstone Project)
@@ -11,7 +11,7 @@ Hello! My name is Tachfin El Kendoussi. I am a global solutions sales executive 
 
 ### 🌱 I’m currently learning
 - Enterprise product management fundamentals
-- LLMs , gen AI and AI-enabled technology services
+- LLMs, gen AI, and AI-enabled technology services
 - Strategy consulting and business analytics
 
 ### 💼 Recent experience
@@ -23,7 +23,7 @@ Hello! My name is Tachfin El Kendoussi. I am a global solutions sales executive 
 
 ### 🚀 Key projects
 
-#### LoanOrigination.ca - Capstone Project
+#### LoanOrigination.ca - Loan Origination Saas for community lenders (Capstone Project)
 A loan origination solution to digitize lending operations for Canadian credit unions and community development lenders.
 - **Skills**: Loan Origination, Software as a Service (SaaS), Fintech
 - **Status**: Apr 2025 - Present
