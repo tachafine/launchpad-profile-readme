@@ -6,7 +6,7 @@ Hello! My name is Tachfin El Kendoussi. I am a global solutions sales executive 
 
 ### 🔭 I’m currently working on
 - **[LoanOrigination.ca](https://loanorigination.ca)** — Loan origination solution to digitize lending operations for Canadian credit unions and community development lenders (Capstone Project)
-- Associated with: Smith School of Business at Queen's University
+- **Associated with:** Smith School of Business at Queen's University
 
 
 ### 🌱 I’m currently learning
