@@ -184,10 +184,10 @@ International Business Development, Consultative Selling, Technical Presales, Pa
 
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/tachfineelkendoussi/
-- Location: Toronto, Ontario, Canada
+- Location: Ontario, Canada
 
 ### 💬 Languages
-Arabic, English, French, Spanish, German
+Arabic, English, French, Spanish
 
 ### ⚡ Fun facts
 - Worked across four continents supporting payments and fintech growth
@@ -195,4 +195,4 @@ Arabic, English, French, Spanish, German
 - Aspiring polyglot
 - Interested in gardening, wildlife, and heirloom seeds
 
-*Open to work: Country Manager, Technical Sales Manager, Technical Account Manager, Sales Engineer, Presales Engineer, Solutions Engineer, Associate Product Manager*
+*Open to work: Technical Sales Manager, Technical Account Manager, Sales Engineer, Presales Engineer, Solutions Engineer, Associate Product Manager*
